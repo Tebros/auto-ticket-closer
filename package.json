@@ -1,6 +1,6 @@
 {
   "name": "auto-ticket-closer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for a Discord ticket bot that automatically closes tickets.",
   "main": "index.js",
   "scripts": {
